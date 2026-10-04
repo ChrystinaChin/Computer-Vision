@@ -1,5 +1,5 @@
 # Computer-Vision
-#This repository contains two main components: an implementation of **Neural Style Transfer** (using deep learning to apply artistic styles to images) and a interactive **Character Frequency Analyzer** script.
+This repository contains two main components: an implementation of **Neural Style Transfer** (using deep learning to apply artistic styles to images) and a interactive **Character Frequency Analyzer** script.
 ---
 
 ## 1. Neural Style Transfer
